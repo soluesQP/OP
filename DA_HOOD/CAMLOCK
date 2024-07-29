@@ -1,0 +1,9 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/E8j3SnSk"))()
+
+wait(0.8)
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "By ZISULAs";
+    Text = "https://youtube.com/@zisulas?si=NOZreJol05U5quuO";
+
+})
